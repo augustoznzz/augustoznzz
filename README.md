@@ -1,6 +1,6 @@
 ### 👋 E aí, pessoal!
 
-- 🔎 Áreas de interesse:
+#### Minhas áreas de interesse:
 - 🐍 Python
 - ☕ Java
 - 💻 C++
