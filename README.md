@@ -10,7 +10,7 @@
 - 👾 Cibersegurança
 
 #### 🚀 Sempre buscando aprender mais e compartilhar conhecimento!
-####🤝 Aberto a colaborações e novos projetos.
+#### 🤝 Aberto a colaborações e novos projetos.
 
 <img 
       align="left" 
