@@ -2,12 +2,10 @@
 
 #### Minhas áreas de interesse:
 - 🐍 Python
-- ☕ Java
-- 💻 C++
 - ⚙️ C
+- ☕ Java
 - 🌐 JavaScript
 - 🗄️ Banco de Dados
-- 👾 Cibersegurança
 
 #### 🚀 Sempre buscando aprender mais e compartilhar conhecimento!
 #### 🤝 Aberto a colaborações e novos projetos.
