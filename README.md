@@ -13,9 +13,9 @@
 <img align="center" alt="Rafa-Js" height="30" width="40" 
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="center" alt="Rafa-Js" height="30" width="40" 
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" 
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" 
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
