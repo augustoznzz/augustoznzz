@@ -4,7 +4,6 @@
 - 🐍 Python
 - ⚙️ C
 - ☕ Java
-- 🌐 JavaScript
 - 🗄️ Banco de Dados
 
 #### 🚀 Sempre buscando aprender mais e compartilhar conhecimento!
@@ -16,11 +15,7 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python
 <img align="center" alt="Rafa-Js" height="30" width="40" 
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="center" alt="Rafa-Js" height="30" width="40" 
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" alt="Rafa-Js" height="30" width="40" 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" 
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
